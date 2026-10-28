@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Dermatology skin mark">
+  <circle cx="64" cy="64" r="62" fill="#eff6ff"/>
+  <path d="M64 17c-8 15-27 32-27 52a27 27 0 0 0 54 0c0-20-19-37-27-52Z" fill="#2563eb"/>
+  <path d="M64 43c-5 10-15 19-15 29a15 15 0 0 0 30 0c0-10-10-19-15-29Z" fill="#bfdbfe"/>
+  <path d="M64 57c-3 6-7 10-7 15a7 7 0 0 0 14 0c0-5-4-9-7-15Z" fill="#fff"/>
+  <path d="M21 83c9-1 16 2 21 9m65-9c-9-1-16 2-21 9M33 103c7-4 14-5 21-2m41 2c-7-4-14-5-21-2" fill="none" stroke="#60a5fa" stroke-linecap="round" stroke-width="4"/>
+</svg>

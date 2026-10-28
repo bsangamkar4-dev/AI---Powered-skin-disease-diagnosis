@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Dermatology mark">
+  <circle cx="512" cy="512" r="500" fill="#eff6ff"/>
+  <path fill="#2563eb" d="M416 176h192v208h208v192H608v272H416V576H208V384h208z"/>
+  <path d="M628 340c38-54 86-80 145-80m-170 152c45-64 105-96 180-96m-205 168c54-76 124-112 215-112m-242 184c61-86 143-128 247-128m-275 200c68-96 162-144 281-144" fill="none" stroke="#eff6ff" stroke-linecap="round" stroke-width="24"/>
+</svg>
